@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Kolkata Travel Guide</string>
+    <string name="title_activity_fast_facts">Fast Facts</string>
+    <string name="city_overview">City Overview</string>
+    <string name="city_overview_details">Kolkata (formerly Calcutta) is the capital of India\'s West Bengal state. Founded as an East India Company trading post, it was India\'s capital under the British Raj from 1773–1911. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. It’s also home to Mother House, headquarters of the Missionaries of Charity, founded by Mother Teresa, whose tomb is on site.</string>
+    <string name="languages">Languages</string>
+    <string name="languages_details">Bengali,English,Hindi</string>
+    <string name="currency">Currency</string>
+    <string name="currency_details">Indian Rupees</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_details">32 degree celcius</string>
+    <string name="festivals">Festivals</string>
+    <string name="festivals_details">Durga Puja</string>
+    <string name="airport">Nearest Airport</string>
+    <string name="airport_details">Netaji Subhas Chandra Bose International Airport</string>
+    <string name="hotel_1_name">The Oberoi Grand</string>
+    <string name="hotel_1_address">Dharmatala, Taltala, 15, Jawaharlal Nehru Rd, New Market Area, Kolkata, West Bengal 700013</string>
+    <string name="hotel_1_description">Fondly known as the Grand Dame of Kolkata, The Oberoi Grand is situated in a prime location, unrivalled by other luxury hotels in Kolkata, near the central business district, bustling markets and cultural landmarks of the city. Dating back to the late 1880s, The Oberoi Grand, Kolkata was frequented by the leading figures of the country during colonial times and even now, hosts grand functions for Heads of State in the city\'s largest pillarless Grand Ballroom.
+Guests looking for a luxury dining restaurant in Kolkata can choose between our award winning, authentic Thai restaurant, our all day dining space and our colonial style bar. Branching off the hotel\'s naturally lit walkway, each restaurant is tastefully decorated, offers unparalleled fine dining and matchless service.
+The Oberoi Spa in Kolkata is open until late and offers a wide range of Eastern, Western and signature Oberoi treatments. Situated in a separate, colonial style wing of the hotel, it is a wonderful place to relax and unwind after a fulfilling day doing business or sightseeing in the City of Joy.
+The Oberoi Grand, Kolkata was the first hotel to be acquired by Rai Bahadur M.S. Oberoi, founder of The Oberoi Group. Under his ownership, it became known for its classic style and modern facilities; traditions we uphold.
+We offer all guests complimentary access to high speed Internet for up to four devices. Guests who book in advance and directly with us can also enjoy special rates, exclusive privileges and hotel offers. We would be happy to take care of any business requirements or ensure a relaxing holiday with loved ones. Our hotel offers are designed to ensure an unforgettable Oberoi experience.</string>
+
+    <string name="hotel_2_name">ITC Sonar</string>
+    <string name="hotel_2_address"> Opp Science City, 1 JBS Haldane Avenue, Kolkata, West Bengal 700046</string>
+    <string name="hotel_2_description">ITC Sonar, has a distinctively  sleek  contemporary architectural design contrasting with the rich historical essence of Kolkata. The hotel is nestled amidst acres of land, resplendent with greenery, sunshine, and water. This luxury Business Resort is en route from the airport and a 15 minute drive from the city centre. It is a Business Resort in the urban context. One that has the efficiency of a business hotel yet the feet-up-feel of a resort. An upscale, world class, Asia’s best business Hotel set amidst resort surroundings. One that is a consonance with ITC Hotels’ ethos of reflecting “rooted in soil” but dynamic in form and philosophy.</string>
+
+    <string name="hotel_3_name">Swissotel</string>
+    <string name="hotel_3_address"> City Centre New Town, Plot No.11/5, Action Area 2 D, New Town Rajarhat, Kolkata, West Bengal 700157</string>
+    <string name="hotel_3_description">Swissotel Kolkata is Kolkata’s newest five-star luxury hotel near the airport and is attached to a mall featuring shops, restaurants and a multiplex cinema. Located in Rajarhat beside the IT hub, the hotel offers a distinct mix of leisure and business facilities, and is noted for its unique offering of Swiss hospitality and attention to detail.
+    Choose from 147 elegantly appointed guest rooms, including 10 suites with large open-air terraces, each with its own spectacularly exclusive outdoor Jacuzzi. Executive rooms and the Swiss Executive Club lounge provide additional luxury and exclusivity. The award-winning rooftop Sky Lounge is the jewel of the hotel’s three restaurants and bar, offering views over the city. An in-house nightclub with resident DJ attracts hip locals and guests alike. The sumptuous breakfast buffet offers a wide range of choices to energise your day.
+    The business centre and two meeting rooms more than cover all your business needs. Over 1000 guests can be accommodated in cocktail/reception style in Bern, the largest pillar-free banqueting facility – and a team of event planners is on hand to help you hold the perfect wedding at Swissotel Kolkata.
+    Swissotel Kolkata’s alpine-inspired Purovel Sport offers you an exclusive ambiance in which to continue your exercise routine, with a fully equipped gym and a breathtaking infinity swimming pool on the roof.
+    The hotel has separate smoking and non-smoking floors, there is free internet throughout except in the banquet areas, and secure parking is also available for your vehicle during your stay.</string>
+
+    <string name="hotel_4_name">Taj Bengal</string>
+    <string name="hotel_4_address">34B, Belvedere Road, Alipore, Kolkata, West Bengal 700027</string>
+    <string name="hotel_4_description">Taj Bengal is a landmark five-star hotel in downtown Kolkata, in the exclusive neighbourhood of Alipore at the heart of its cultural heritage.
+    Prominent landmarks—Victoria Memorial, Royal Calcutta Race Course, Horticultural Gardens, National Library, Eden Gardens and the Alipore Zoological Gardens—are all within walking distance. It is the luxury hotel closest to government offices and most consulates. The city’s commercial centre is just two miles (three km) away; the airport, an hour’s drive.
+    But for the twinkling views of the stunning Kolkata skyline, you could forget the hotel’s location in the centre of the bustling metropolis. Nestled in the city’s greenest precinct, you are in paradise, with lush flora teeming with birdlife and clear views of the Alipore Zoological Gardens.
+    Designed by legendary architect Bob Fox, the architecture and interiors of the hotel are deeply inspired by the city’s famed art, culture and heritage. All around, grandeur meets understated elegance—you are awed by the lavish five-storied stone and marble atrium, bathed in glorious gold light each afternoon. Genuine antiques, priceless art, and traditional accents and colours are impeccably woven together with contemporary style and modern amenities.
+    Stay in our grand luxury rooms and suites, or at our Grand Presidential Suite. Indulge yourself with a day at Spa and shop for finely curated Indian artefacts at Taj Khazana. Spectacular venues make the hotel the preferred choice for business meetings, social events and weddings.
+    The wide array of fine-dining restaurants at Taj Bengal is the best in Kolkata. Enjoy robust North-West Indian, Punjabi and Bengali cuisines at the ambient Sonargaon, authentic Chinese at Chinoiserie, and Lebanese and Mediterranean at Souk. Our award-winning 24-hour coffee shop, The Hub serves an assortment of world cuisines; for an on-the-go craving, there is La Patisserie and Deli. The Junction Bar and Promenade Lounge are perennial favourites; and during winters, the Grill by the Pool is a special treat.
+    Our signature Taj hospitality infuses your time at this hotel with warmth and the utmost in personal care, service and exclusivity. Be pampered by our world-renowned butlers and enjoy sumptuous in-room-dining experiences.
+    Come, retreat into this tranquil paradise in the City of Joy.</string>
+
+    <string name="hotel_5_name">The Gateway Hotel</string>
+    <string name="hotel_5_address"> 1930, Rajdanga Main Road, Sector F, East Kolkata Twp, Kolkata, West Bengal 700107</string>
+    <string name="hotel_5_description">Located on the arterial highway of Eastern Metropolitan Bypass, The Gateway Hotel Kolkata is a short distance from the city\'s IT hotspot. The 5 star property, built on 1.9 acres of prime real estate is also not far from other industrial commercial hubs, keeping you conveniently close to business. But it\'s not just our the location that keeps guests coming back again and again!The hotel provides a hassle free experience through  its 24X7 culture ensuring complete care and comfort for its guests.</string>
+
+    <string name="restaurant_1_name">Bhojohori Manna</string>
+    <string name="restaurant_1_address"> Shop No.9/18, Ekdalia Road, Gariahat, Kolkata, West Bengal 700019</string>
+    <string name="restaurant_1_description">BHOJOHORI MANNA named after the famous Bengali song rendered by Manna Dey in the 70’s, is a family of restaurants with a difference. With the endeavour to promote the charming old world concept of a “pice hotel”, it serves a delightful variety of Bengali cuisine. The menu is handwritten every day on a whiteboard and are designed keeping in mind the season, the weather, the festivities and of course the raw material available on that given day.</string>
+
+    <string name="restaurant_2_name">The Royal Bengal Tiger Cafe</string>
+    <string name="restaurant_2_address"> 91, Golf Club Road, Rajendra Prasad Colony, Tollygunge, Kolkata, West Bengal 700033</string>
+    <string name="restaurant_2_description">The Cafe is mainly themed around the national animal of India, the bengal tiger. With wooden ceiling, flooring and walls, the cafe will give you a Darjeeling cafe vibe, in the middle of the bustling heart of the city. Paintings and real life photographs of Tigers decorate the walls. The chairs are made of wood, but there are sofas also, for your comfort.It has a small outdoor seating, which is very cutely decorated with wooden tables and chairs and artificial plants. Though the centre of attraction is the giant life sized Bengal Tiger guarding its entrance.. :D The food tastes delicious.The staffs are very serious and dedicated to their work. Well dressed and well behaved. Very friendly and cooperative, but seriouly need to pace up their service.Here you will mainly find the crowd to be very young and relaxed and casual. Nothing very formal bout it. A very good place for some hangout with your buddies or your partner. It also serves breakfast, so after a morning jog around the golf green area, drop in at The Royal Bengal Tiger Cafe and have some delicious breakfast with authentic Darjeeling Tea. Very refreshing!!</string>
+
+    <string name="restaurant_3_name">Rang de Basanti Dhaba</string>
+    <string name="restaurant_3_address"> DN-37, Sector 5, Salt Lake City, Kolkata, West Bengal 700091</string>
+    <string name="restaurant_3_description">Rang de Basanti Dhaba is a modern take on the traditional concept of dhabas. The name is inspired from the free will and independent spirit that personifies the youth of the country today – an attitude in which nothing is impossible. Once a unifying cry during India’s Independent movement, the phrase may have lost its initial relevance, but resonates in every Indian’s heart as the ability to “be”.The kitchens are modern and hygienic. The air-conditioning is sharp and effective. As for the rest, its still your very own dhaba in a modern garb. There’s original brick flooring much like a dhaba, a life-size tractor which is a quintessential part of every rural home in India and cuisine that promises to makes you relive that rustic experience of a dhaba.</string>
+
+    <string name="restaurant_4_name">Picaddily Square</string>
+    <string name="restaurant_4_address">  Shop No. 15-B, Ground Floor, Techno City, Sarat Bose Road, Mintu Park, Kolkata, West Bengal 700020</string>
+    <string name="restaurant_4_description"> The ambiance is completely cosmopolitan and there is seating space outdoor as well. Foodwise their Waffles are well known and are a must have in case you visit. Chocolate Waffles and Chocolate Devotion from their menu are to die and kill for. In case you aren\'t too fond of desserts or feel too fed up of sweet items, try their salads or their sandwiches. All in all this place is a must visit for all!</string>
+
+    <string name="restaurant_5_name">Flurys</string>
+    <string name="restaurant_5_address">18A, Park Street, Park Street area, Kolkata, West Bengal 700071</string>
+    <string name="restaurant_5_description"> Flurys was founded at 18, Park Street in the year 1927 by Mr and Mrs J Flury. Within no time, it gained immense popularity to become the favourite tea – room of the prosperous Britisher and the affluent Indian alike.
+    Flurys over the decades has became a part of the culture of Kolkata and no morning walker’s daily routine is complete without a visit to this legendary eatery.
+    Flurys, as it stands today, is an institution in the city and evokes strong emotions among generations. Memories mingle with meals as members of the Flurys ‘family’ keep dropping in for decades.
+    Flurys on Park Street is a landmark. Visitors from all over the world come back for a taste of Flurys whenever they are passing through. Such is the level of nostalgia and attachment that this old – world tea room, the only one of its kind in the city, invokes.</string>
+
+    <string name="places_to_visit_1_name">National Library of India</string>
+    <string name="places_to_visit_1_address">Belvedere Rd, Block A, Alipore, Kolkata, West Bengal 700027</string>
+    <string name="places_to_visit_1_description">The National Library of India is the county’s largest library and the library of public record. The library “operates under the national government’s Department of Culture and is designated to collect, disseminate, and preserve all printed material produced in India, and all foreign works published about the country—where ‘every work about India…can be seen and read’” (Murray, 2009). The National Library is a result of the merging of the public library with the Imperial Library—several government libraries. The National Library (1953), then the Imperial Library housed several foreign (British) and Indian titles and was open to the public. Of further note, the National Library of India collects book, periodicals, and titles in “virtually all the Indian languages, with Hindi, Kashmiri, Punjab, Sindhi, Telugu, and Urdu” maintaining the largest stacks (Murray, 2009). The Special Collections in the National Library of India house at least fifteen languages including “Assamese, Bengali, Gujarati…and Tamil with many rare works (Murray, 2009). The Hindi department has books that date back all the way to the nineteenth century and the first ever books printed in that language. The collections break down and consist of 86,000 maps and 3,200 manuscripts.</string>
+
+    <string name="places_to_visit_2_name">Mandarmani</string>
+    <string name="places_to_visit_2_address">East Midnapore district and at the northern end of the Bay of Bengal</string>
+    <string name="places_to_visit_2_description">Mandarmani is a seaside resort village in the state of West Bengal, India.It is one of the large and fast developing seaside resort village of West Bengal. It is almost 180 km from Kolkata Airport on the Kolkata - Digha route. red crabs crawling around the 13 km long beach is a special attraction of Mandarmani. It is argued to be the longest driveable (drive in) beach in India.Mandarmani can be best reached by road, however local police currently restricts private cars to drive across the beach. A proper road has been built allowing tourists to reach their hotels from the backside. The nearest railway station is Contai and the nearest airport is Kolkata.[3] There are also multiple buses running every half-hour from 7 AM till 6 PM.</string>
+
+    <string name="places_to_visit_3_name">Victoria Memorial</string>
+    <string name="places_to_visit_3_address">Victoria Memorial Hall, 1, Queens Way, Kolkata, West Bengal 700071</string>
+    <string name="places_to_visit_3_description">The Victoria Memorial is a large marble building in Kolkata (formerly Calcutta), West Bengal, India, which was built between 1906 and 1921. It is dedicated to the memory of Queen Victoria (1819–1901) and is now a museum and tourist destination under the auspices of the Ministry of Culture.[2] The memorial lies on the maidan (grounds) by the bank of the Hooghly River, near Jawaharlal Nehru road.</string>
+
+    <string name="places_to_visit_4_name">Birla Mandir</string>
+    <string name="places_to_visit_4_address">29, Ashutosh Chowdary Ave, Ballygunge, Opposite Ballygunge Post Office, Kolkata, West Bengal 700019</string>
+    <string name="places_to_visit_4_description">Birla Mandir in Kolkata, India, is a Hindu temple on Asutosh Chowdhury Avenue, Ballygunge, built by the industrialist Birla family. This temple is open in the morning from 5.30 A.M. to 11 A.M. and in the evening from 4 .30 P.M. to 9 P.M.</string>
+
+    <string name="places_to_visit_5_name">Indian Museum</string>
+    <string name="places_to_visit_5_address">27, Jawaharlal Nehru Rd, Colootola, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700016</string>
+    <string name="places_to_visit_5_description">The Indian Museum is the largest and oldest museum in India and has rare collections of antiques, armour and ornaments, fossils, skeletons, mummies, and Mughal paintings. It was founded by the Asiatic Society of Bengal in Kolkata, India, in 1814</string>
+
+    <string name="shopping_1_name">Quest Mall</string>
+    <string name="shopping_1_address">33, Syed Amir Ali Ave, Beck Bagan, Ballygunge, Kolkata, West Bengal 700017</string>
+    <string name="shopping_1_description">Quest (previously known as Spencers Galleria) is a shopping mall in Kolkata, India. Located in Park Circus, the mall was inaugurated on 30 September 2013. With a shopping area of 730,000 sq ft (68,000 m2) and parking for 1,300 vehicle.The mall has the largest apparel store in the city,[citation needed] Lifestyle, with a total area of 100,000 sq ft (9,300 m2). It also houses a six-screen Insignia class multiplex INOX cinema, Spencers Hyper Market and Starmark bookstore in the basement.The mall has the largest apparel store in the city,[citation needed] Lifestyle, with a total area of 100,000 sq ft (9,300 m2). It also houses a six-screen Insignia class multiplex INOX cinema, Spencers Hyper Market and Starmark bookstore in the basement.</string>
+
+    <string name="shopping_2_name">New Market</string>
+    <string name="shopping_2_address">Lindsay Street,West-Bengal,Kolkata-700087</string>
+    <string name="shopping_2_description">New Market is a market in Kolkata situated on Lindsay Street at Free School Street (Mirza Ghalib Street). Although primarily "New Market" referred to the original enclosed market, today in local parlance, the entire shopping area is often known as "New Market".Despite the appearance of new air-conditioned, American-style, shopping malls all over Kolkata, New Market, which has survived two devastating fires and regular flooding, remains at the core of the shopping experience in the city. Over 2000 stalls under its roof sell everything from clothing to wheeled luggage to electronics to a special cheese found nowhere else. Under its apparent chaos lie extraordinary finds as well as remarkable bargains. Newmarket is a place to shop fro garments and accessories, flowers, different food items including raw meat, fish, vegetables and fruits and even spices. There are c rockeries and utensil stores. It also has a florist section dealing with exotic flowers. It is situated on Lindsay Street, Kolkata (Calcutta), just off Chowringhee Road, the market is open 10 a.m. until 8 p.m. Monday to Friday, until 7 p.m. on Saturdays, and closed on Sundays.</string>
+
+    <string name="shopping_3_name">College Street</string>
+    <string name="shopping_3_address"> Ganesh Chandra Avenue Crossing in Bowbazar area to Mahatma Gandhi Road crossing, Kolkata, West Bengal</string>
+    <string name="shopping_3_description">College Street is a ~1.5 km long street in central Kolkata in the Indian state of West Bengal. It stretches (approximately) from Ganesh Chandra Avenue Crossing in Bowbazar area to Mahatma Gandhi Road crossing.[1] Its name derives from the presence of many colleges, housing many centres of intellectual activity especially the Indian Coffee House, a café that has attracted the city\'s intelligentsia for decades.</string>
+
+    <string name="shopping_4_name">Gangurams</string>
+    <string name="shopping_4_address"> No.116/C, Everest House, Jawaharlal Nehru Rd, Kankaria Estates, Park Street area, Kolkata, West Bengal 700087</string>
+    <string name="shopping_4_description">Ganguram one of the oldest sweet brands of India having twenty seven outlets with over 200 delicacies sweets. Order sweets online with free delivery.</string>
+
+    <string name="title_activity_how_to_reach">How To Reach</string>
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="title_activity_restaurants">Restaurants</string>
+    <string name="title_activity_places_to_visit">Places To Visit</string>
+    <string name="title_activity_shopping">Shopping</string>
+    <string name="title_activity_item_details">Item Details</string>
+    <string name="expand">Read More</string>
+    <string name="collapse">Collapse</string>
+</resources>
